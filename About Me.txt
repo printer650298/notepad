@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About me</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+<body style="background-color:black;">
+
+<img src="Heptacross.png" alt="enlarged image of Youtube channel icon">
+<h1 style="font-family:courier;color:white;">About Me:</h1>
+<p style="font-family:courier;color:white;">- I make 8bit, breakcore, and other types of music.</p>
+<p>----------------------------------------------------------------------------------------------------------------------------</p>
+<h style="font-family:courier;color:white;">My Socials:</h>
+<p style="font-family:courier;color:white;">YouTube - youtube.com/@heptacross_chiptunes</p>
+<p>----------------------------------------------------------------------------------------------------------------------------</p>
+<p style="font-family:courier;color:white;">Links to the music websites I use:</p>
+<p style="font-family:courier;color:white;">Ultrabox - ultraabox.github.io</p>
+<p style="font-family:courier;color:white;">Soundtrap - www.Soundtrap.com</p>
+<p>----------------------------------------------------------------------------------------------------------------------------</p>
+<p style="font-family:courier;color:white;">pls subscribe!</p>
+
+</body>
+</html>
