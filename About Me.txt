@@ -7,15 +7,15 @@
 <body style="background-color:black;">
 
 <img src="Heptacross.png" alt="enlarged image of Youtube channel icon">
-<h1 style="font-family:courier;color:white;">About Me:</h1>
-<p style="font-family:courier;color:white;">- I make 8bit, breakcore, and other types of music.</p>
+<h1 style="font-family:MajorMono;color:white;">About Me:</h1>
+<p style="font-family:MajorMono;color:white;">- I make 8bit, breakcore, and other types of music.</p>
 <p>----------------------------------------------------------------------------------------------------------------------------</p>
-<h style="font-family:courier;color:white;">My Socials:</h>
-<p style="font-family:courier;color:white;">YouTube - youtube.com/@heptacross_chiptunes</p>
+<h style="font-family:MajorMono;color:white;">My Socials:</h>
+<p style="font-family:MajorMono;color:white;">YouTube - youtube.com/@heptacross_chiptunes</p>
 <p>----------------------------------------------------------------------------------------------------------------------------</p>
-<p style="font-family:courier;color:white;">Links to the music websites I use:</p>
-<p style="font-family:courier;color:white;">Ultrabox - ultraabox.github.io</p>
-<p style="font-family:courier;color:white;">Soundtrap - www.Soundtrap.com</p>
+<p style="font-family:MajorMono;color:white;">Links to the music websites I use:</p>
+<p style="font-family:MajorMono;color:white;">Ultrabox - ultraabox.github.io</p>
+<p style="font-family:MajorMono;color:white;">Soundtrap - www.Soundtrap.com</p>
 <p>----------------------------------------------------------------------------------------------------------------------------</p>
 <p style="font-family:courier;color:white;">pls subscribe!</p>
 
